@@ -16,7 +16,7 @@ FastChef é uma plataforma de delivery de alimentos frescos e deliciosos, trazen
 Para começar a usar o **FastChef** em seu ambiente local, siga os passos abaixo:
 
 ```bash
-git clone https://github.com/seu-usuario/fastchef-landing-page.git
+git clone https://github.com/Caaarolb/front-end-restaurante
 cd fastchef-landing-page
 npm install
 npm start
@@ -32,12 +32,6 @@ npm start
 - **Vercel**: Plataforma de hospedagem utilizada para deploy do projeto.
 
 
-## Demonstração 📸
-
-Veja como o **FastChef** se apresenta:
-
-![FastChef Preview](https://i.ibb.co/v6wbKFMS/Fast-Chef-2.png)
-
 
 ## 3. Navegação 🚀
 
@@ -45,7 +39,7 @@ Veja como o **FastChef** se apresenta:
 - **Serviços**: Mostra os diferentes serviços oferecidos pelo FastChef, com imagens e descrições detalhadas.
 - **Sobre**: Seção informativa sobre o FastChef, destacando a missão e os valores da empresa.
 - **Avaliações**: Mostra o feedback de usuários sobre o serviço de entrega e qualidade dos alimentos.
-- **Carrinho de Compras**: Um botão para acessar o carrinho e concluir a compra de pratos.
+
 
 
 ## 4. Minhas Redes Sociais 📱
